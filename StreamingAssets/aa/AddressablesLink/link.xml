@@ -1,0 +1,368 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ButtonTokenListWallet" preserve="all" />
+    <type fullname="Phoenix._ApiTestListContent" preserve="all" />
+    <type fullname="Phoenix._ApiTestScreen" preserve="all" />
+    <type fullname="Phoenix._EffectTestScreen" preserve="all" />
+    <type fullname="Phoenix._UITestScreen" preserve="all" />
+    <type fullname="Phoenix.ActionButton" preserve="all" />
+    <type fullname="Phoenix.AdditionalBonusScreen" preserve="all" />
+    <type fullname="Phoenix.AdditionBonusScreen" preserve="all" />
+    <type fullname="Phoenix.AgreeToTosDialog" preserve="all" />
+    <type fullname="Phoenix.AssetPanel" preserve="all" />
+    <type fullname="Phoenix.AutoSizeByScale" preserve="all" />
+    <type fullname="Phoenix.BattleActionContent" preserve="all" />
+    <type fullname="Phoenix.BattleActionsPanel" preserve="all" />
+    <type fullname="Phoenix.BattleEffectSet" preserve="all" />
+    <type fullname="Phoenix.BattleEnemyPanel" preserve="all" />
+    <type fullname="Phoenix.BattleEscapeDialog" preserve="all" />
+    <type fullname="Phoenix.BattleFinishScreen" preserve="all" />
+    <type fullname="Phoenix.BattleHeroPanel" preserve="all" />
+    <type fullname="Phoenix.BattleLogListContent" preserve="all" />
+    <type fullname="Phoenix.BattleLogScreen" preserve="all" />
+    <type fullname="Phoenix.BattleResultDialog" preserve="all" />
+    <type fullname="Phoenix.BattleScreen" preserve="all" />
+    <type fullname="Phoenix.BattleStartScreen" preserve="all" />
+    <type fullname="Phoenix.BattleTreasureProbabilities" preserve="all" />
+    <type fullname="Phoenix.BattleTurnDecideScreen" preserve="all" />
+    <type fullname="Phoenix.BonusHeroListContent" preserve="all" />
+    <type fullname="Phoenix.BonusTokensPanel" preserve="all" />
+    <type fullname="Phoenix.BookDetailDialog" preserve="all" />
+    <type fullname="Phoenix.BookListContent" preserve="all" />
+    <type fullname="Phoenix.BookListFilterDialog" preserve="all" />
+    <type fullname="Phoenix.BookOpenDialog" preserve="all" />
+    <type fullname="Phoenix.BookSellDialog" preserve="all" />
+    <type fullname="Phoenix.BookSellingDialog" preserve="all" />
+    <type fullname="Phoenix.BookTransferDialog" preserve="all" />
+    <type fullname="Phoenix.ButtonActivatorOnMaster" preserve="all" />
+    <type fullname="Phoenix.ButtonAudioPlayer" preserve="all" />
+    <type fullname="Phoenix.CellDropdown" preserve="all" />
+    <type fullname="Phoenix.CharacterPanelEffects" preserve="all" />
+    <type fullname="Phoenix.CodeInputPanel" preserve="all" />
+    <type fullname="Phoenix.CodeViewPanel" preserve="all" />
+    <type fullname="Phoenix.CommonAnimationEventListener" preserve="all" />
+    <type fullname="Phoenix.CommonDialog" preserve="all" />
+    <type fullname="Phoenix.ConnectAndShareTweetButton" preserve="all" />
+    <type fullname="Phoenix.ConnectTheWealletDialog" preserve="all" />
+    <type fullname="Phoenix.CostPanel" preserve="all" />
+    <type fullname="Phoenix.CureItemUseDialog" preserve="all" />
+    <type fullname="Phoenix.CureMenuContent" preserve="all" />
+    <type fullname="Phoenix.CurePanel" preserve="all" />
+    <type fullname="Phoenix.DailyRewardListContent" preserve="all" />
+    <type fullname="Phoenix.DamageModifySpriteController" preserve="all" />
+    <type fullname="Phoenix.DialogValueContent" preserve="all" />
+    <type fullname="Phoenix.DisconnectTwitterDialog" preserve="all" />
+    <type fullname="Phoenix.DoubleUpChoiseEggScreen" preserve="all" />
+    <type fullname="Phoenix.DoubleUpResultScreen" preserve="all" />
+    <type fullname="Phoenix.DoubleUpScreen" preserve="all" />
+    <type fullname="Phoenix.EffectCoin" preserve="all" />
+    <type fullname="Phoenix.EnergyUpdateController" preserve="all" />
+    <type fullname="Phoenix.EventMissionScreen" preserve="all" />
+    <type fullname="Phoenix.EventMissionTopScreen" preserve="all" />
+    <type fullname="Phoenix.FavoriteButton" preserve="all" />
+    <type fullname="Phoenix.FlickerIcon" preserve="all" />
+    <type fullname="Phoenix.GachaBehavioursConfigSO" preserve="all" />
+    <type fullname="Phoenix.GameObjectActivatorOnMaster" preserve="all" />
+    <type fullname="Phoenix.GemDetailDialog" preserve="all" />
+    <type fullname="Phoenix.GemEquipScreen" preserve="all" />
+    <type fullname="Phoenix.GemEquipSelectScreen" preserve="all" />
+    <type fullname="Phoenix.GemLevelUpDialog" preserve="all" />
+    <type fullname="Phoenix.GemLevelUpFailedResultDialog" preserve="all" />
+    <type fullname="Phoenix.GemLevelUpListContent" preserve="all" />
+    <type fullname="Phoenix.GemLevelUpResultDialog" preserve="all" />
+    <type fullname="Phoenix.GemLevelUpScreen" preserve="all" />
+    <type fullname="Phoenix.GemListContent" preserve="all" />
+    <type fullname="Phoenix.GemListFilterDialog" preserve="all" />
+    <type fullname="Phoenix.GemSelectedPanel" preserve="all" />
+    <type fullname="Phoenix.GemSocketDialog" preserve="all" />
+    <type fullname="Phoenix.GemTransferDialog" preserve="all" />
+    <type fullname="Phoenix.GeneticBonusScreen" preserve="all" />
+    <type fullname="Phoenix.HeroActionButtons" preserve="all" />
+    <type fullname="Phoenix.HeroDetailScreen" preserve="all" />
+    <type fullname="Phoenix.HeroFamilyListContent" preserve="all" />
+    <type fullname="Phoenix.HeroGemSocketSet" preserve="all" />
+    <type fullname="Phoenix.HeroHealScreen" preserve="all" />
+    <type fullname="Phoenix.HeroListContent" preserve="all" />
+    <type fullname="Phoenix.HeroListContentSimpleView" preserve="all" />
+    <type fullname="Phoenix.HeroListFilterDialog" preserve="all" />
+    <type fullname="Phoenix.HeroPanel" preserve="all" />
+    <type fullname="Phoenix.HeroPanelSimpleView" preserve="all" />
+    <type fullname="Phoenix.HeroPartyList" preserve="all" />
+    <type fullname="Phoenix.HeroRecoverDialog" preserve="all" />
+    <type fullname="Phoenix.HeroResurrectionConfirmDialog" preserve="all" />
+    <type fullname="Phoenix.HeroResurrectionDialog" preserve="all" />
+    <type fullname="Phoenix.HeroResurrectionScreen" preserve="all" />
+    <type fullname="Phoenix.HeroResurrectionSelectScreen" preserve="all" />
+    <type fullname="Phoenix.HeroSelectScreen" preserve="all" />
+    <type fullname="Phoenix.HeroSellDialog" preserve="all" />
+    <type fullname="Phoenix.HeroSoulWithdrawAndClaim" preserve="all" />
+    <type fullname="Phoenix.HeroStatusPanel" preserve="all" />
+    <type fullname="Phoenix.HeroStatusUpDialog" preserve="all" />
+    <type fullname="Phoenix.HeroSummonDialog" preserve="all" />
+    <type fullname="Phoenix.HeroSummonScreen" preserve="all" />
+    <type fullname="Phoenix.HeroSummonSelectScreen" preserve="all" />
+    <type fullname="Phoenix.HeroTransferDialog" preserve="all" />
+    <type fullname="Phoenix.HeroTransferScreen" preserve="all" />
+    <type fullname="Phoenix.HomeScreen" preserve="all" />
+    <type fullname="Phoenix.InventoryListScreen" preserve="all" />
+    <type fullname="Phoenix.ItemBoxPanel" preserve="all" />
+    <type fullname="Phoenix.ItemDetailDialog" preserve="all" />
+    <type fullname="Phoenix.ItemListContent" preserve="all" />
+    <type fullname="Phoenix.ItemPhrase" preserve="all" />
+    <type fullname="Phoenix.LeftGachaCutscene" preserve="all" />
+    <type fullname="Phoenix.LevelUpDialog" preserve="all" />
+    <type fullname="Phoenix.LevelUpResultDialog" preserve="all" />
+    <type fullname="Phoenix.LinkTwitterComponent" preserve="all" />
+    <type fullname="Phoenix.ListUI" preserve="all" />
+    <type fullname="Phoenix.MainFooler" preserve="all" />
+    <type fullname="Phoenix.MainHeader" preserve="all" />
+    <type fullname="Phoenix.MarketBookDialog" preserve="all" />
+    <type fullname="Phoenix.MarketDilectBuyScreen" preserve="all" />
+    <type fullname="Phoenix.MarketGemDialog" preserve="all" />
+    <type fullname="Phoenix.MarketHeroDialog" preserve="all" />
+    <type fullname="Phoenix.MarketItemDialog" preserve="all" />
+    <type fullname="Phoenix.MarketplaceFeeText" preserve="all" />
+    <type fullname="Phoenix.MarketScreen" preserve="all" />
+    <type fullname="Phoenix.MessagePanel" preserve="all" />
+    <type fullname="Phoenix.MissionListContent" preserve="all" />
+    <type fullname="Phoenix.MissionListTypeContent" preserve="all" />
+    <type fullname="Phoenix.MissionScreen" preserve="all" />
+    <type fullname="Phoenix.MoveTransform" preserve="all" />
+    <type fullname="Phoenix.MovingObjectsEffect" preserve="all" />
+    <type fullname="Phoenix.NumObjectsSet" preserve="all" />
+    <type fullname="Phoenix.OneObjectSelectorObject" preserve="all" />
+    <type fullname="Phoenix.PagingButton" preserve="all" />
+    <type fullname="Phoenix.PagingPanel" preserve="all" />
+    <type fullname="Phoenix.PartyEditScreen" preserve="all" />
+    <type fullname="Phoenix.PartyHeroPanel" preserve="all" />
+    <type fullname="Phoenix.PassCodeMainListContent" preserve="all" />
+    <type fullname="Phoenix.PassCodeSettingScreen" preserve="all" />
+    <type fullname="Phoenix.PassInputFieldTextTypeSwitcher" preserve="all" />
+    <type fullname="Phoenix.PointAdjustButtonSet" preserve="all" />
+    <type fullname="Phoenix.PresentBoxListContent" preserve="all" />
+    <type fullname="Phoenix.PresentBoxScreen" preserve="all" />
+    <type fullname="Phoenix.PriceInputValidator" preserve="all" />
+    <type fullname="Phoenix.PricePanel" preserve="all" />
+    <type fullname="Phoenix.PushButtonGachaCutscene" preserve="all" />
+    <type fullname="Phoenix.RecoverPanel" preserve="all" />
+    <type fullname="Phoenix.ResurrectionNumber" preserve="all" />
+    <type fullname="Phoenix.ResuscitationPanel" preserve="all" />
+    <type fullname="Phoenix.RightGachaCutscene" preserve="all" />
+    <type fullname="Phoenix.RoleLocker" preserve="all" />
+    <type fullname="Phoenix.ScrollBarController" preserve="all" />
+    <type fullname="Phoenix.ScrollListUI" preserve="all" />
+    <type fullname="Phoenix.SelectiveButtonActivatorOnMaster" preserve="all" />
+    <type fullname="Phoenix.ShareTweetArea" preserve="all" />
+    <type fullname="Phoenix.ShopItemListContent" preserve="all" />
+    <type fullname="Phoenix.ShopScreen" preserve="all" />
+    <type fullname="Phoenix.SimpleAnime_MoveLoop" preserve="all" />
+    <type fullname="Phoenix.SimpleAnime_ScaleLoop" preserve="all" />
+    <type fullname="Phoenix.SortDropdown" preserve="all" />
+    <type fullname="Phoenix.SoulMiningResultDialog" preserve="all" />
+    <type fullname="Phoenix.SoundSettingDialog" preserve="all" />
+    <type fullname="Phoenix.SpendingPanelTokens" preserve="all" />
+    <type fullname="Phoenix.SpinDialog" preserve="all" />
+    <type fullname="Phoenix.SpinGoChallengeDialog" preserve="all" />
+    <type fullname="Phoenix.StatusBarSet" preserve="all" />
+    <type fullname="Phoenix.SummonedHeroListContent" preserve="all" />
+    <type fullname="Phoenix.SwapEventTrigger" preserve="all" />
+    <type fullname="Phoenix.SwitchToggleUI" preserve="all" />
+    <type fullname="Phoenix.TabUI" preserve="all" />
+    <type fullname="Phoenix.TitleScreen" preserve="all" />
+    <type fullname="Phoenix.ToggleAudioPlayer" preserve="all" />
+    <type fullname="Phoenix.ToggleGroupAudioPlayer" preserve="all" />
+    <type fullname="Phoenix.TransferHistoryPanel" preserve="all" />
+    <type fullname="Phoenix.TransferLogListContent" preserve="all" />
+    <type fullname="Phoenix.TransferTokenDialog" preserve="all" />
+    <type fullname="Phoenix.TreasureBoxDialog" preserve="all" />
+    <type fullname="Phoenix.TreasureBoxPanel" preserve="all" />
+    <type fullname="Phoenix.TreasureBoxResultDialog" preserve="all" />
+    <type fullname="Phoenix.TreasureItemBox" preserve="all" />
+    <type fullname="Phoenix.TreasureProbabilitiesContent" preserve="all" />
+    <type fullname="Phoenix.TreasuryKeyDetailDialog" preserve="all" />
+    <type fullname="Phoenix.TweetButton" preserve="all" />
+    <type fullname="Phoenix.TwitterConnector" preserve="all" />
+    <type fullname="Phoenix.UIDamageNumber" preserve="all" />
+    <type fullname="Phoenix.UIMoveAlongPath" preserve="all" />
+    <type fullname="Phoenix.UIScaleEffect" preserve="all" />
+    <type fullname="Phoenix.UIScaleFadeEffect" preserve="all" />
+    <type fullname="Phoenix.UIShakeEffect" preserve="all" />
+    <type fullname="Phoenix.UISwapFontMaterial" preserve="all" />
+    <type fullname="Phoenix.UISwapImage" preserve="all" />
+    <type fullname="Phoenix.UISwapImageColor" preserve="all" />
+    <type fullname="Phoenix.UserAccountDeleteScreen" preserve="all" />
+    <type fullname="Phoenix.UserAccountPanel" preserve="all" />
+    <type fullname="Phoenix.UserCreateAccountScreen" preserve="all" />
+    <type fullname="Phoenix.UserNewEmailScreen" preserve="all" />
+    <type fullname="Phoenix.UserNewPasswordScreen" preserve="all" />
+    <type fullname="Phoenix.UserPasswordLoginScreen" preserve="all" />
+    <type fullname="Phoenix.UserProfileScreen" preserve="all" />
+    <type fullname="Phoenix.UserSettingScreen" preserve="all" />
+    <type fullname="Phoenix.WaitButton" preserve="all" />
+    <type fullname="Phoenix.WalletBookScreen" preserve="all" />
+    <type fullname="Phoenix.WalletHeroScreen" preserve="all" />
+    <type fullname="Phoenix.WalletItemNFTListContent" preserve="all" />
+    <type fullname="Phoenix.WalletNFTScreen" preserve="all" />
+    <type fullname="Phoenix.WalletPasswordInputPassCodeScreen" preserve="all" />
+    <type fullname="Phoenix.WalletPasswordInputScreen" preserve="all" />
+    <type fullname="Phoenix.WalletPasswordScreen" preserve="all" />
+    <type fullname="Phoenix.WalletReceiveEscapeDialog" preserve="all" />
+    <type fullname="Phoenix.WalletScreen" preserve="all" />
+    <type fullname="Phoenix.WalletSeedPhraseInfoScreen" preserve="all" />
+    <type fullname="Phoenix.WalletSeedPhraseScreen" preserve="all" />
+    <type fullname="Phoenix.WalletTradeSettingDialog" preserve="all" />
+    <type fullname="Phoenix.WalletTransferPanel" preserve="all" />
+    <type fullname="Phoenix.XBonusScreen" preserve="all" />
+    <type fullname="TS.DoubleSlider.DoubleSlider" preserve="all" />
+    <type fullname="TS.DoubleSlider.Label" preserve="all" />
+    <type fullname="TS.DoubleSlider.SingleSlider" preserve="all" />
+    <type fullname="WebGLSupport.WebGLInput" preserve="all" />
+    <type fullname="Phoenix.BattleActionsPanel/ActionMapping" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.BattleScreen/DamageModifyTypeSituation" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.CutscenePause" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.DamageModifySpriteMapping" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.DelayBehaviour" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.EffectMapper" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.ItemDropdown" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.PlaySoundEffect" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.PricePanel/IconSettings" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.ReScroll" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.ScalePhase" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.ShowResultAfterCutscenePause" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.SpinGoChallengeDialog/RunScrollData" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.SpinGoChallengeDialog/WeightedGachaConfig" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.StoppedBehaviours" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.WalletTransferPanel/TransferToken" preserve="nothing" serialized="true" />
+    <type fullname="Phoenix.WeightedGachaBehaviour" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="CFXRRuntime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CartoonFX.CFXR_Effect" preserve="all" />
+    <type fullname="CartoonFX.CFXR_Effect/AnimatedLight" preserve="nothing" serialized="true" />
+    <type fullname="CartoonFX.CFXR_Effect/CameraShake" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
+  </assembly>
+  <assembly fullname="UIEffect, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIEffects.UIDissolve" preserve="all" />
+    <type fullname="Coffee.UIEffects.UIEffect" preserve="all" />
+    <type fullname="Coffee.UIEffects.UIShadow" preserve="all" />
+    <type fullname="Coffee.UIEffects.EffectPlayer" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[Phoenix.UniTaskParam]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[System.Single,System.Single]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>

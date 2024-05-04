@@ -3,6 +3,8 @@ html {
 }
 *, *:before, *:after {
     box-sizing: inherit;
+    width: 100%;
+    height: 100%;
 }
 html, body {
     height: 100%;
@@ -12,6 +14,7 @@ canvas {
 }
 body {
     margin: 0;
+    overflow: hidden;
 }
 #unity-container {
     width: 100%;
@@ -20,7 +23,7 @@ body {
 #unity-canvas {
     width: 100%;
     height: 100%;
-    background: #231F20;
+    background: #0D0D0D;
 }
 #loading-cover {
     position: absolute;
@@ -102,4 +105,48 @@ body {
   }
 }
 
-
+#root, body, html {
+	height: 100%;
+    position: relative;
+    width: 100%;
+}
+body:before {
+    background-attachment: fixed;
+    background-image: linear-gradient(-225deg,#daf5ff,#f3dbff);
+    background-position: 50%;
+    background-size: cover;
+    content: "";
+    display: block;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+@media (min-width: 520px) {
+	#root .left-frame {
+		width: 470px !important;
+	}
+	#root .right-frame {
+		display: block !important;
+    	width: calc(100% - 470px);
+	}
+}
+#root .MuiBox-root {
+	height: 100%;
+}
+#root .left-frame {
+	width: 100%;
+    height: 100%;
+    position: relative;
+    float: left;
+    overscroll-behavior-y: contain;
+}
+#root .right-frame {
+	float: left;
+    position: relative;
+    overscroll-behavior-y: contain;
+    display: none;
+    height: 100%;
+}
